@@ -8,3 +8,4 @@ import Library: <br>
 Functions: <br>
 ``SH5461AS sh = SH5461AS(digit1, digit2, digit3, digit4, segA, segB, segC, segD, segE, segF, segG, dp);``<br>
 ``name.showInt();`` <br>
+``name.showFloat();`` <br>
