@@ -1,5 +1,5 @@
 # Arduino-4-digit-7-segment-led-display-library
-Arduino librari for 4 digit 7 segment led display.
+Arduino library for 4 digit 7 segment led display.
 
 
 import Library: <br>
