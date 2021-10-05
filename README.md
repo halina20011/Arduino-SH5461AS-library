@@ -10,4 +10,4 @@ Functions: <br>
 ``name.showInt(int);`` <br>
 ``name.showFloat(float);`` <br>
 ``name.showTemperature(int)`` <br>
-<div style="text-align:center"><img src="https://user-images.githubusercontent.com/65724763/136063290-c21ed5af-fd83-407b-873d-f8b9e6b82d75.png" width="800" height="300" />
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/65724763/136063290-c21ed5af-fd83-407b-873d-f8b9e6b82d75.png" width="800" height="600" />
