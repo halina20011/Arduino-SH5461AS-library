@@ -1,5 +1,5 @@
-# Arduino-4-digit-7-segment-led-display-library
-Arduino library for 4 digit 7 segment led display.
+# Arduino SH54AS library
+Arduino SH54AS library
 
 
 import Library: <br>
