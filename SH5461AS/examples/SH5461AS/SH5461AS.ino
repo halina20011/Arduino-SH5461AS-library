@@ -36,7 +36,7 @@ void setup() {
 
 void loop() {
   sh.showInt(i);
-//  sh.showFloat(x)
+//  sh.showFloat(x);
 //  sh.showTemperature(i);
   unsigned long currentMillis = millis();
   if (currentMillis - previousMillis >= interval) {
