@@ -1,5 +1,5 @@
-# Arduino SH54AS library
-Arduino SH54AS library
+# Arduino SH5461AS library
+Arduino SH5461AS library
 
 
 import Library: <br>
